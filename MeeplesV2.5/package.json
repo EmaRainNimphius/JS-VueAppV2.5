@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@shopid/vue-editobj": "^0.0.7",
+    "moment": "^2.30.1"
+  }
+}
